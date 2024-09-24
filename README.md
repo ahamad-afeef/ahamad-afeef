@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate web developer skilled in a varie
 |----------------- |------------------- |------------------ |
 |HTML5             |JavaScript, React.Js|GitHub             |
 |CSS3              |Node.Js, Express.js |Content Writing    |
-|BootStrap         |PHP                 |Canva Designing    |
+|BootStrap         |PHP, MySQL          |Canva Designing    |
 ---
 - I am a recent graduate with a Bachelor of Science in Computer Science, seeking a position as a web developer.
 - I possess strong problem-solving abilities and excellent communication skills, for collaborating effectively within a team and delivering projects.
