@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I am a passionate web developer skilled in a varie
 - I am a recent graduate with a Bachelor of Science in Computer Science, seeking a position as a web developer.
 - I possess strong problem-solving abilities and excellent communication skills, for collaborating effectively within a team and delivering projects.
 - I am passionate about web development and eager to contribute my knowledge and creativity to a dynamic team.
+---
 ####  Check out my [Portfolio](https://www.linkedin.com/in/ahamad-afeef/)
 ####  Let’s connect through [LinkedIn](https://www.linkedin.com/in/ahamad-afeef/)
 ####  Reach out via Email ahamad.afeef.ma@gmail.com 📧
