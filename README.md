@@ -1,4 +1,4 @@
-## Greetings, I'm Ahamad Afeef 🧔🏻‍♂️
+## Greetings, I'm Ahamad Afeef 👨🏻‍🎓
 Welcome to my GitHub profile! I am a passionate web developer skilled in a variety of technologies. Below you'll find an overview of my skills and projects.
 
 | Web Technologies | Programming Skills | Additional Skills |
