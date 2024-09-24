@@ -1,11 +1,11 @@
 ## Greetings, I'm Ahamad Afeef 👨🏻‍🎓
 Welcome to my GitHub profile! I am a passionate web developer skilled in a variety of technologies. Below you'll find an overview of my skills and projects.
 
-| Web Technologies | Programming Skills | Additional Skills | Soft Skills |
-|----------------- |------------------- |------------------ |------------ |
-|HTML5             |JavaScript, React.Js|GitHub             | Emotional Intelligence |
-|CSS3              |Node.Js, Express.js |Content Writing    | Communication |
-|BootStrap         |PHP, MySQL          |Canva Designing    | Team Work |
+| Web Technologies | Programming Skills | Additional Skills | Soft Skills | Acadamic Scores |
+|----------------- |------------------- |------------------ |------------ |---------------- |
+|HTML5             |JavaScript, React.Js|GitHub             | Emotional Intelligence | B.Sc CS - 75% |
+|CSS3              |Node.Js, Express.js |Content Writing    | Communication | HSC - 88% |
+|BootStrap         |PHP, MySQL          |Canva Designing    | Team Work | SSLC - 90% |
 ---
 - I am a recent graduate with a Bachelor of Science in Computer Science, seeking a position as a web developer.
 - I possess strong problem-solving abilities and excellent communication skills, for collaborating effectively within a team and delivering projects.
